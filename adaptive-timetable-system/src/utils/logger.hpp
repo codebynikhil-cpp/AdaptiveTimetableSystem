@@ -1,1 +1,0 @@
-Sorry, I don't know how to set up a logger file for the Adaptive Timetable System project.
