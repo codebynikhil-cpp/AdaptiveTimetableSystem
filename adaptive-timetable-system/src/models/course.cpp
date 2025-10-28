@@ -1,0 +1,1 @@
+Sorry, I don't know how to set up the contents for the file `/adaptive-timetable-system/adaptive-timetable-system/src/models/course.cpp`.
